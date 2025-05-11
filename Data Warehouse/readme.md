@@ -50,8 +50,7 @@ This project is ideal for showcasing skills in:
 
 | Tool | Purpose |
 |------|---------|
-| **SQL Server Express** | Host the Data Warehouse |
-| **SSMS (SQL Server Management Studio)** | Manage database and write SQL |
+| **MYSQL** | Host the Data Warehouse |
 | **CSV Files** | Source ERP and CRM datasets |
 | **GitHub** | Version control and codebase management |
 | **Draw.io** | Diagram architecture and data models |
@@ -82,4 +81,3 @@ This project is ideal for showcasing skills in:
 
 ---
 
-## 📂 Folder Structure
