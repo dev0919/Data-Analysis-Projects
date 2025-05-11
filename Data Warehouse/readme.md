@@ -5,6 +5,7 @@ This repository presents a complete end-to-end **Data Warehousing and Analytics*
 ---
 
 ## 🏗️ Data Architecture: Medallion Approach
+![Data Architecture Diagram](docs/data_architecture.jpg)
 
 We use the **Medallion Architecture** to structure the data warehouse in three layers:
 
@@ -62,7 +63,7 @@ This project is ideal for showcasing skills in:
 
 ### 📦 Data Engineering
 
-**Goal**: Build a scalable SQL Server-based Data Warehouse from raw ERP and CRM data.
+**Goal**: Build a scalable  MY-SQL based Data Warehouse from raw ERP and CRM data.
 
 **Tasks**:
 - ✅ Import data from CSV files
